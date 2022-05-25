@@ -1,0 +1,46 @@
+---
+title: "Análisis covid 19 CR"
+author: "Christopher Cadena"
+date: '2022-05-25'
+output:
+  html_document:
+    theme: readable    
+    toc: true
+    toc_depth: 5
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación
+
+### Entradas
+
+#### Datos generales casos
+
+### Procesamiento
+
+#### Opciones generales
+
+#### Curación de datos
+
+### Salidas
+
+#### Casos a nivel nacional
+
+#### Tabla
+
+#### Gráfico de líneas
+
+### Casos a nivel cantonal
+
+#### Positivos
+
+#### Tabla
+
+#### Gráfico de barras
+
